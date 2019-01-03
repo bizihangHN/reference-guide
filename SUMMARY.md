@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [About 4.0](README.md)
 * [Architecture overview](architecture-overview.md)
