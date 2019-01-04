@@ -1,4 +1,4 @@
-# About 4.0
+# About 4.0.0
 
 Axon 4.0 was released on October 18, 2018 as the successor to Axon Framework 3.\*. The name change from "Axon Framework" to "Axon" is intentional: starting from 4.0, Axon is not just a framework, but a complete platform consisting of both [Axon Framework](1-axon-framework/introduction.md) and [Axon Server](2-axon-server/about.md).
 
